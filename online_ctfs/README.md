@@ -25,7 +25,7 @@ __Note that the ones in bold have formal writeups available; those that do not j
 * [__BITSCTF 2017__](bitsctf_2017/)
 * [AlexCTF 2017](alexctf_2017/)
 * [__BSides CTF 2017__](bsides_ctf_2017/)
-* [HackIM 2017](hackim_2017/)
+* [__HackIM 2017__](hackim_2017/)
 * [Hackcon Mini 2017](hackcon_mini_2017)
 * [Codegate Prequals 2017](codegate_prequals_2017/)
 * [ABCTF](abctf/)
