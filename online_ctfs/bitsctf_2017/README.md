@@ -53,7 +53,7 @@ __Note that bolded items have a solution added; regular entries _do not_.__
 * Enjoy the music
 * [__Banana Princess__](banana_princess/)
 * fanfie
-* Enigma
+* [__Enigma__](enigma/)
 * [__Beginner's Luck__](beginners_luck/)
 * [__Sherlock__](sherlock/)
 * [__Black Hole__](black_hole/)
