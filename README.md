@@ -63,6 +63,8 @@ __Note that the ones in bold have formal writeups available; those that do not j
 * [LASACTF 2016](online_ctfs/lasactf_2016)
 * [PragyanCTF 2016](online_ctfs/pragynctf_2016)
 
+* [ML Johnson's Writeups](https://github.com/MichaelLJohnson/CTF-Writeups/blob/master/README.md)
+
 
 [USCGA]: http://uscga.edu/
 [United States Coast Guard Academy]: http://uscga.edu/
